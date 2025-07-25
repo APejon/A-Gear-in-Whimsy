@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "A Gear in Whimsy.sln"
+    "dotnet.defaultSolution": "A-Gear-in-Whimsy.sln"
 }
